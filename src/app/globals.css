@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Poppins{
+    font-family: var(--font-Poppins);
+}
+
+.clipPath{
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
