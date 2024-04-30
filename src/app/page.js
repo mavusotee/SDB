@@ -29,11 +29,13 @@ export default function Home() {
   return (
    
     <div className="w-full h-screen border-green-800">
+    <ErrorBoundary fallback="Error">
       <Navbar />
       <Hero />
      <Section1 />
      <Section2 />
      <Section3 />
+    </ErrorBoundary>
     </div>
   );
 }
