@@ -44,7 +44,7 @@ function Section1() {
     className=" h-[50vh] w-[40vh] mt-32 lg:h-[75vh] lg:w-[90vh] 
     object-cover lg:object-cover rounded-lg lg:-mt-60 clipPath 
     lg:scale-[20px] shadow-lg shadow-slate-600" 
-    src="public/lady.jpg" alt="" width={500} height={300} />
+    src="/Lady.jpg" alt="" width={500} height={300} />
     </motion.div>
   </div>
 
