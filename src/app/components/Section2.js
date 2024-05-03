@@ -206,7 +206,7 @@ function Section2() {
       <li>
         <a href="#" class="group block overflow-hidden">
           <Image
-            src="/image1.jpg"
+            src="public/image1.jpg"
             alt=""
             width={500}
             height={300}
@@ -230,7 +230,7 @@ function Section2() {
       <li>
         <a href="#" class="group block overflow-hidden">
           <Image
-            src="/image2.jpg"
+            src="public/image2.jpg"
             alt=""
             width={500}
             height={300}
@@ -254,7 +254,7 @@ function Section2() {
       <li>
         <a href="#" class="group block overflow-hidden">
           <Image
-            src="/image3.jpg"
+            src="public/image3.jpg"
             alt=""
             width={500}
             height={300}
@@ -278,7 +278,7 @@ function Section2() {
       <li>
         <a href="#" class="group block overflow-hidden">
           <Image
-            src="/lady.jpg"
+            src="public/lady.jpg"
             alt=""
             width={500}
             height={300}
