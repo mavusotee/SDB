@@ -1,6 +1,5 @@
 "use client"
 
-import Image from "next/image";
 import Lenis from 'lenis'
 import { useEffect } from 'react';
 import Navbar from "./components/Navbar";
